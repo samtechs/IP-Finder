@@ -1,2 +1,1 @@
-# shop-mgm-
-online shop managment system in java
+# Ip Finder in java
